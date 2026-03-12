@@ -29,3 +29,8 @@ body {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
   text-align: start;
 }
+.form-control, .form-select {
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
